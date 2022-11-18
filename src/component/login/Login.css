@@ -1,0 +1,24 @@
+* {
+  font-family: cursive;
+}
+.card {
+  margin: auto;
+  width: 500px;
+}
+
+.card-header {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5em;
+  color: beige;
+  background-color: #17a2b8;
+}
+
+.error {
+  color: red;
+}
+
+.form label {
+  text-align: left;
+  display: block;
+}
